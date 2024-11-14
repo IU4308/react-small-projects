@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "datetime": "October 18, 2024 3:44:36 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex facilis illo quia praesentium incidunt, vitae ad, placeat laudantium quibusdam nisi rem odit ipsum dignissimos sunt ullam, aliquid at ea velit."
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "datetime": "October 18, 2024 3:44:24 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas deserunt ipsam porro. Libero reiciendis fugiat ea iusto recusandae impedit harum, et quia dignissimos ipsa aut natus non labore similique tenetur.Eveniet delectus illum perspiciatis quo voluptatem molestias consequuntur inventore sed explicabo, voluptates earum! Ipsa, impedit rem! Eaque ducimus in, deleniti numquam a similique voluptatum voluptatibus repudiandae qui animi architecto. Eos!"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "datetime": "October 18, 2024 3:51:15 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat, reprehenderit. Labore delectus quae deserunt quasi eum aspernatur assumenda ipsam aperiam iusto! Id quasi sit inventore. Dolores, expedita odit. Esse, ducimus!Recusandae earum ex, quia eveniet voluptas minus ea numquam voluptates ab provident quas odio magnam autem eligendi cupiditate! Ex, odit odio. Labore placeat quod corrupti voluptatibus possimus hic dicta eius.Laudantium quisquam recusandae officiis. Alias, et perferendis hic nesciunt veniam quam doloremque atque odio, voluptatibus consequatur velit mollitia, autem voluptates. Quae laboriosam necessitatibus quia dignissimos dolore, officia facere quidem iste."
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "datetime": "October 26, 2024 4:48:30 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam vel voluptas deleniti accusamus consectetur unde iusto possimus esse officiis, repudiandae quidem tenetur illo maxime minus ab veritatis excepturi aliquid laboriosam.Deleniti minus recusandae delectus repudiandae sapiente distinctio, error esse eveniet et vero, aliquam inventore maiores, atque doloremque nemo eaque? Est fuga voluptatem obcaecati, debitis reiciendis mollitia voluptates accusamus iste asperiores.Cumque eius voluptatum ab iusto, laboriosam at aliquam pariatur unde perferendis, nemo voluptatibus quasi ducimus nulla fugit aut ex in impedit hic illum qui sit est! Maiores assumenda soluta voluptas.Rem, error asperiores fugiat quia veritatis voluptatum quidem deleniti blanditiis repellendus nam ratione odio illum sequi, et necessitatibus aperiam, saepe voluptatem provident possimus expedita itaque aliquam. Facilis non ea a?"
+    }
+  ]
+}
