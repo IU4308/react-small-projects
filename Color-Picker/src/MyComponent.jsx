@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 
 function MyComponent() {
 
-    console.log("nigger");
 
     const [name, setName] = useState("Guest") 
     const [age, setAge] = useState(0);
