@@ -62,7 +62,7 @@ const EditPost = () => {
             } 
             {!editTitle && 
                 <>
-                    <h2>Nigger Not Found</h2>
+                    <h2>Post Not Found</h2>
                     <p>Well, that's dissappointing</p>
                     <p>
                         <Link to='/'>Visit Our Homepage</Link>
